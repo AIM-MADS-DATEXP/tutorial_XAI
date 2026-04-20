@@ -12,7 +12,7 @@ To run the tutorial locally execute the following code in a terminal. For google
 git clone https://github.com/AIM-MADS-DATEXP/tutorial_XAI.git
 
 # Navigate into the project directory
-cd tutorial-xai
+cd tutorial_XAI
 
 # (Optional) Create and activate a virtual environment
 python -m venv venv
